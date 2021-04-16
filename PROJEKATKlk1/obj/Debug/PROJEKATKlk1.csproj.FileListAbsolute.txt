@@ -1,0 +1,10 @@
+C:\Users\Radovan\Desktop\C# vezbe\SolPROJEKATKlk1\PROJEKATKlk1\bin\Debug\PROJEKATKlk1.exe.config
+C:\Users\Radovan\Desktop\C# vezbe\SolPROJEKATKlk1\PROJEKATKlk1\bin\Debug\PROJEKATKlk1.exe
+C:\Users\Radovan\Desktop\C# vezbe\SolPROJEKATKlk1\PROJEKATKlk1\bin\Debug\PROJEKATKlk1.pdb
+C:\Users\Radovan\Desktop\C# vezbe\SolPROJEKATKlk1\PROJEKATKlk1\obj\Debug\PROJEKATKlk1.csprojAssemblyReference.cache
+C:\Users\Radovan\Desktop\C# vezbe\SolPROJEKATKlk1\PROJEKATKlk1\obj\Debug\PROJEKATKlk1.Form1.resources
+C:\Users\Radovan\Desktop\C# vezbe\SolPROJEKATKlk1\PROJEKATKlk1\obj\Debug\PROJEKATKlk1.Properties.Resources.resources
+C:\Users\Radovan\Desktop\C# vezbe\SolPROJEKATKlk1\PROJEKATKlk1\obj\Debug\PROJEKATKlk1.csproj.GenerateResource.cache
+C:\Users\Radovan\Desktop\C# vezbe\SolPROJEKATKlk1\PROJEKATKlk1\obj\Debug\PROJEKATKlk1.csproj.CoreCompileInputs.cache
+C:\Users\Radovan\Desktop\C# vezbe\SolPROJEKATKlk1\PROJEKATKlk1\obj\Debug\PROJEKATKlk1.exe
+C:\Users\Radovan\Desktop\C# vezbe\SolPROJEKATKlk1\PROJEKATKlk1\obj\Debug\PROJEKATKlk1.pdb

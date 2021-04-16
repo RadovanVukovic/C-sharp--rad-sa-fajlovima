@@ -1,0 +1,10 @@
+C:\Users\Radovan\Desktop\SVI PROJEKTI\C# - rad sa fajlovima\PROJEKATKlk1\bin\Debug\PROJEKATKlk1.exe.config
+C:\Users\Radovan\Desktop\SVI PROJEKTI\C# - rad sa fajlovima\PROJEKATKlk1\bin\Debug\PROJEKATKlk1.exe
+C:\Users\Radovan\Desktop\SVI PROJEKTI\C# - rad sa fajlovima\PROJEKATKlk1\bin\Debug\PROJEKATKlk1.pdb
+C:\Users\Radovan\Desktop\SVI PROJEKTI\C# - rad sa fajlovima\PROJEKATKlk1\obj\Debug\OpenModifyFindSaveFile.csprojAssemblyReference.cache
+C:\Users\Radovan\Desktop\SVI PROJEKTI\C# - rad sa fajlovima\PROJEKATKlk1\obj\Debug\PROJEKATKlk1.Form1.resources
+C:\Users\Radovan\Desktop\SVI PROJEKTI\C# - rad sa fajlovima\PROJEKATKlk1\obj\Debug\PROJEKATKlk1.Properties.Resources.resources
+C:\Users\Radovan\Desktop\SVI PROJEKTI\C# - rad sa fajlovima\PROJEKATKlk1\obj\Debug\OpenModifyFindSaveFile.csproj.GenerateResource.cache
+C:\Users\Radovan\Desktop\SVI PROJEKTI\C# - rad sa fajlovima\PROJEKATKlk1\obj\Debug\OpenModifyFindSaveFile.csproj.CoreCompileInputs.cache
+C:\Users\Radovan\Desktop\SVI PROJEKTI\C# - rad sa fajlovima\PROJEKATKlk1\obj\Debug\PROJEKATKlk1.exe
+C:\Users\Radovan\Desktop\SVI PROJEKTI\C# - rad sa fajlovima\PROJEKATKlk1\obj\Debug\PROJEKATKlk1.pdb
